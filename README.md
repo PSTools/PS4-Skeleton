@@ -10,7 +10,7 @@
  
  Fork it and load it via unity.
  
- Remeber to build it as follow.
+ Remember to build it as follow.
  
  ![image](https://user-images.githubusercontent.com/12253240/146817121-f4d393ff-80e6-467b-a267-33ae76a0edce.png)
  
